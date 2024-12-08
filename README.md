@@ -34,7 +34,7 @@ Below are the key insights from the experiments:
 - Fine-tuning SVM parameters with the RBF kernel significantly improved performance, particularly when combined with high-quality vector inputs.
 
 ## Analysis Results
-Best parameters: {'C': 10, 'gamma': 0.1}
+-Best parameters: {'C': 10, 'gamma': 0.1}
 Best cross-validation accuracy: 0.9777378293562167
 Accuracy (Best RBF kernel): 0.974694589877836
 Classification Report (Best RBF kernel):
@@ -49,7 +49,7 @@ weighted avg       0.97      0.97      0.97      1146
 
 
 
-Best parameters: {'C': 10, 'gamma': 0.1}
+-Best parameters: {'C': 10, 'gamma': 0.1}
 Best cross-validation accuracy: 0.9790466825084646
 Accuracy (Best RBF kernel): 0.9764397905759162
 Classification Report (Best RBF kernel):
@@ -63,7 +63,7 @@ Classification Report (Best RBF kernel):
 weighted avg       0.98      0.98      0.98      1146
 
 
-Best parameters: {'C': 10, 'gamma': 0.1}
+-Best parameters: {'C': 10, 'gamma': 0.1}
 Best cross-validation accuracy: 0.9770828075221555
 Accuracy (Best RBF kernel): 0.9781849912739965
 Classification Report (Best RBF kernel):
